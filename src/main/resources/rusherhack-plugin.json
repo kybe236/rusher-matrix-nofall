@@ -1,0 +1,12 @@
+{
+  "Plugin-Class": "org.kybe.Main",
+  "Name": "Matrix Nofall",
+  "Version": "${plugin_version}",
+  "Description": "Matrix Nofall",
+  "Authors": [
+    "kybe236"
+  ],
+  "Minecraft-Versions": [
+    "1.21"
+  ]
+}
